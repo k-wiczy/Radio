@@ -1,0 +1,29 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Panel 1.PrjPcb|ReportField=ProjectFullPath~D:\Simle\Radio\Panel 1\Panel 1.PrjPcb|ReportField=Title~Bill of Materials For Project [Panel 1.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~124|ReportField=ReportTime~00:52:25|ReportField=ReportDate~2017-09-23|ReportField=ReportDateTime~2017-09-23 00:52:25|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~Jakub Wiczynski|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2017-09-23|ReportField=CurrentTime~00:47:09|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\Simle\Radio\Panel 1\Driving.SchDoc|ReportField=DocumentName~Driving.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2017-08-13|ReportField=Organization~Simle|ReportField=ProjectName~Panel 1.PrjPcb|ReportField=Revision~1|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~Sterowanie LED|ReportField=DataSourceFileName~Panel 1.PrjPcb|ReportField=DataSourceFullPath~D:\Simle\Radio\Panel 1\Panel 1.PrjPcb|ReportField=PCBConfigurationName~Default Configuration|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|http://www.tme.eu/pl/details/12061c104kat2a/kondensatory-mlcc-smd-1206/avx/|100nF|C1, C2, C3, C5, C7, C8, C9, C10, C14, C15|C1206|Cap|10
+2|http://www.tme.eu/pl/details/cl31c220jbcnnnc/kondensatory-mlcc-smd-1206/samsung/|22pF|C11, C12, C13|C1206|Cap|3
+3|http://www.tme.eu/pl/details/of-smd3216b/diody-led-smd-kolorowe/optoflash/|LED SMD Niebieska|D1|Dioda SMD 1206 Niebieska|LED0|1
+4|http://www.tme.eu/pl/details/of-smd3216yg-rv/diody-led-smd-kolorowe/optoflash/|LED SMD Zielona|D2, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13|Dioda SMD 1206 Zielona|LED0|11
+5|http://www.tme.eu/pl/details/ltw-150tk/diody-led-smd-biale/liteon/|LED SMD Biala|D3|Dioda SMD 1206 Biala|LED0|1
+6|http://www.tme.eu/pl/details/1n4148-1206/diody-uniwersalne-smd/dc-components/cd4148w1206c/|Dioda 1N4148|D14|DIODA 1N4148|Diode 1N4148|1
+7|http://www.tme.eu/pl/details/p1304/zlacza-idc/tomic/|Gniazdo IDC 4PIN|J1|IDC 4PIN|I2C|1
+8|http://www.tme.eu/pl/details/09185106324/zlacza-idc/harting/|Gniazdo IDC 10PIN|J2|IDC 10PIN|SPI|1
+9|http://www.tme.eu/pl/details/pcw1j-c24-bab104l/potencjometry-jednoobrz-przew-plastiku/bourns/|Potencjometr 100K|POT1, POT2|Potentiometer|RPot|2
+10|http://www.tme.eu/pl/details/bc856a/tranzystory-pnp-smd/nexperia/bc856a215/|PNP 100mA|Q1, Q2, Q3, Q4, Q5, Q6, Q7, Q8, Q9, Q10, Q11, Q12, Q13|SOT-23B_N|PNP|13
+11|http://www.tme.eu/pl/details/bc817-16.215/tranzystory-npn-smd/nexperia/|NPN 500mA|Q14|SOT-23B_N|NPN|1
+12|http://www.tme.eu/pl/details/crcw1206100rfktabc/rezystory-smd-1206/vishay/|100R|R1, R3|C1206|Res2|2
+13|http://www.tme.eu/pl/details/crcw1206150rfktabc/rezystory-smd-1206/vishay/|150R|R2, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13|C1206|Res2|11
+14|http://www.tme.eu/pl/details/crcw120620k0fktabc/rezystory-smd-1206/vishay/|20K|R14, R15, R16, R17, R18, R19, R20, R21, R22, R23, R24, R25, R26, R27, R28|C1206|Res2|15
+15|http://www.tme.eu/pl/details/crcw12061k00fkea/rezystory-smd-1206/vishay/|1K|R29, R36, R55, R56|C1206|Res2|4
+16|http://www.tme.eu/pl/details/crcw12063k00fktabc/rezystory-smd-1206/vishay/|3K|R30, R37|C1206|Res2|2
+17|http://www.tme.eu/pl/details/crcw12067k50fktabc/rezystory-smd-1206/vishay/|7.5K|R31, R38|C1206|Res2|2
+18|http://www.tme.eu/pl/details/crcw120615k0jntabc/rezystory-smd-1206/vishay/|15K|R32, R39|C1206|Res2|2
+19|http://www.tme.eu/pl/details/rc1206jr-0743k/rezystory-smd-1206/yageo/rc1206jr-0743kl/|43K|R33, R40|C1206|Res2|2
+20|http://www.tme.eu/pl/details/crcw120610k0jntabc/rezystory-smd-1206/vishay/|10K|R34, R41, R42, R43, R44, R45, R46, R47, R48, R49, R50, R51, R52, R53, R54, R58|C1206|Res2|16
+21|http://www.tme.eu/pl/details/rc1206fr-071m/rezystory-smd-1206/yageo/rc1206fr-071ml/|1M|R57|C1206|Res2|1
+22|http://www.tme.eu/pl/details/1301.9315/mikroprzelaczniki-tact-pcb/schurter/|Microswitch (SPST)|S1, S2, S3, S4, S5, S6, S7, S8, S9, S10, S13, S19|Microswitch_SMD|SW-PB|12
+23|http://www.tme.eu/pl/details/1ms3t1b1m1qe/przelaczniki-dzwigniowe/ninigi/|Przelacznik SP3T|S11, S12|3POS SWITCH|SW-SPDT|2
+24|http://www.tme.eu/pl/details/sr2611515fn/przelaczniki-obrotowe/ninigi/|Przelacznik obrotowy 5-pozycyjny|S14, S16|ROT SW|5SW|2
+25|http://www.tme.eu/pl/details/sn74hc166d/rejestry-przesuwne/texas-instruments/|SN74HC166|U1, U2|D016_N|SN74HC166D|2
+26|http://www.tme.eu/pl/details/sn74hc595d/rejestry-przesuwne/texas-instruments/|SN74HC595|U3, U5|SOIC16_N|SN74HC595N|2
+27|http://www.tme.eu/pl/details/atmega8a-au/mikrokontrolery-atmel-avr-smd/atmel/|Atmega 8A-PU|U7|32A_N|ATmega8A-PU|1
+28|http://www.tme.eu/pl/details/16.00m-smdhc49s-ht/rezonatory-kwarcowe-smd/yic/16mhz-_105c-49smd-on-tape/|Kwarc 16MHz|Y1|crystal|XTAL|1

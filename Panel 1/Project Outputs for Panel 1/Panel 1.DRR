@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Panel 1.PcbDoc   2017-09-01  13:34:45
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Panel 1.TXT
+ASCII RectHoles File : Panel 1-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.254mm)                                           Round             164       PTH        36.51inch (927.34mm)
+T2      50mil (1.27mm)                                            Round             28        PTH        8.07inch (204.92mm)
+T3      50mil (1.27mm)                                            Rectangle         6         PTH        2.92inch (74.13mm)
+T4      79mil (1.999mm)                                           Round             32        PTH        9.80inch (248.79mm)
+T5      197mil (5.001mm)                                          Round             4         PTH        16.81inch (427.05mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              234
+
+Total Processing Time (hh:mm:ss) : 00:00:00

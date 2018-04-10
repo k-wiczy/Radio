@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Panel 1.PrjPcb]
+   Generated File[Panel 1.TXT]
+   Generated File[Panel 1-RectHoles.TXT]
+   Generated File[Panel 1.LDP]
+   Generated File[Panel 1.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 13:34:45 On 2017-09-01
